@@ -1,0 +1,2 @@
+# 9ae0537c-food-restaurant-knowledge-ba
+wrestling with incompatible WordPress plugins that fight each other costs you real money. This WordPress plugin pays for itself in one use.  Compatible with all major WordPress themes and page builders. Regular security updates. Works with WordPress multisite.  ## What's Included  - Food &amp; Restaurant Knowledge Base And Help Center — fully configure
